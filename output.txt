@@ -1,2 +1,2 @@
-Original Array: 5 3 8 4 2 
-Bubble Sorted Array: 2 3 4 5 8 
+Original Array: 6 5 4 3 2 1 
+Insertion Sorted Array: 5 4 3 2 1 6 
